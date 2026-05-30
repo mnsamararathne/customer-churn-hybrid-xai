@@ -1,4 +1,4 @@
-# customer-churn-hybrid-xai : Hybrid Interpretable Machine Learning Model for Customer Churn Prediction
+# Customer-churn-hybrid-xai : Hybrid Interpretable Machine Learning Model for Customer Churn Prediction
 
  MSc Data Science and Business Analytics Dissertation  
  
